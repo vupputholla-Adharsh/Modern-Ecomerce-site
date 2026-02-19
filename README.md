@@ -4,7 +4,9 @@ Website is live at https://ecommerce1022.vercel.app
 
 Note: I have only hosted the frontend and sanity for this project backend is not hosted so some features make not work properly.You can clone this git repo and run it locally to see this project working.I have also added some screenshots below of the working website.
 
-![Home](./assets/home.png)
+![Home]
+
+<img width="1498" height="690" alt="image" src="https://github.com/user-attachments/assets/6117dc5f-84aa-4d1e-85d5-ef9a8af24be0" />
 
 ## 🐈 Features
 
