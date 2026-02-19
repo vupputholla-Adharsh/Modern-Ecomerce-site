@@ -1,2 +1,0 @@
-# Modern Ecomerce site
-
