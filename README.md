@@ -63,4 +63,3 @@ Note: I have only hosted the frontend and sanity for this project backend is not
 -   Author - [Adharsh](https://vupputholla-adharsh.github.io/)
 -   Website - [https://namanarora.vercel.app]
 
-
